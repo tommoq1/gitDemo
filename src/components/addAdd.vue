@@ -5,7 +5,7 @@
        <!-- <h2>{{$store.state.name}}</h2> -->
        <!-- <h2>{{$store.state.title}}</h2> -->
        <!-- <h1>{{$store.getters.bigSum}}</h1> -->
-       <h2>{{sum1}}</h2>
+       <h2>{{name1}}</h2>
        <h2>{{name1}}</h2>
        <h2>{{title}}</h2>
        <h1>{{bigSum}}</h1>
@@ -64,6 +64,48 @@
                 console.log('11')
                 console.log('FZ02')
                 this.$store.dispatch('step1',this.num1)
+            },
+            gitAdd(){
+                console.log('11')
+                console.log('11')
+                console.log('11')
+                console.log('11')
+                console.log('11')
+                console.log('11')
+                console.log('11')
+                console.log('11')
+                console.log('11')
+                console.log('11')
+                console.log('11')
+                console.log('11')
+                console.log('11')
+                console.log('11')
+                console.log('11')
+                console.log('11')
+                console.log('11')
+                console.log('11')
+                console.log('11')
+                console.log('11')
+                console.log('11')
+                console.log('11')
+                console.log('11')
+                console.log('11')
+                console.log('11')
+                console.log('11')
+                console.log('11')
+                console.log('11')
+                console.log('11')
+                console.log('11')
+                console.log('11')
+                console.log('11')
+                console.log('11')
+                console.log('11')
+                console.log('11')
+                console.log('11')
+                console.log('11')
+                console.log('11')
+                console.log('11')
+                console.log('11')
             }
         },
     }
