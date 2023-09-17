@@ -13,6 +13,8 @@
        <h1>'ceshi2'</h1>
        <h1>'FZ01'</h1>
        <h1>'FZ01'</h1>
+       <h1>'小a最帅'</h1>
+       
 
 
        <button @click="add1">+</button>
