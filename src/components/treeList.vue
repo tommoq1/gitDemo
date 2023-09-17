@@ -14,7 +14,11 @@
 
 <script>
     export default {
-        
+        computed: {
+            aa() {
+                return '11'
+            }
+        },
     }
 </script>
 
