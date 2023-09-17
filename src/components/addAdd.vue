@@ -108,6 +108,7 @@
                 console.log('11')
                 console.log('11')
                 console.log('xb1第一天上班提交了代码')
+                console.log('xb1第二天上班提交了代码，今天要把代码提交到master')
             }
         },
     }
