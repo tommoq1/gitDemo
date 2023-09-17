@@ -14,10 +14,9 @@
 
 <script>
     export default {
-        methods: {
+        computed: {
             aa() {
-               console.log('b1') 
-               console.log('b2') 
+                return '11'
             }
         },
     }

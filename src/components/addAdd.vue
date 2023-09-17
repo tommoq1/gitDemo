@@ -107,8 +107,8 @@
                 console.log('11')
                 console.log('11')
                 console.log('11')
-                console.log('xb1第一天上班提交了代码')
-                console.log('xb1第二天上班提交了代码，今天要把代码提交到master')
+                console.log('我是发展023')
+                console.log('我是发展0231')
             }
         },
     }
