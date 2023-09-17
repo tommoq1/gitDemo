@@ -14,7 +14,11 @@
 
 <script>
     export default {
-        
+        methods: {
+            aa() {
+               console.log('b1') 
+            }
+        },
     }
 </script>
 
