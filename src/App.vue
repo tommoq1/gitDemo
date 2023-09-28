@@ -1,19 +1,22 @@
 <template>
   <div id="app">
     <!-- <button @click="get">获取学生信息</button> -->
-    <addAdd/>
+    <!-- <addAdd/> -->
+    <downL/>
     <!-- <treeList/> -->
   </div>
 </template>
 
 <script>
 import axios from "axios"
-import addAdd from '@/components/addAdd.vue';
+// import addAdd from '@/components/addAdd.vue';
+import downL from '@/components/downL.vue';
 // import treeList from '@/components/treeList.vue';
 
 export default {
   components: {
-    addAdd,
+    // addAdd,
+    downL,
     // treeList
   },
   name: 'App',
